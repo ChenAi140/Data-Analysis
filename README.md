@@ -2,8 +2,11 @@
 ```txt
 # Github地址
 https://github.com/ChenAi140/Data-Analysis
+
 # Gitee地址
 https://gitee.com/ChenAi140/Data-Analysis
+
+# 如果Github图片未显示，请看Gitee或者自行百度GitHub DNS污染
 ```
 
 ## 二、Python 学习
