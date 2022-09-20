@@ -22,3 +22,11 @@ Python软件安装、环境配置、pip指令、虚拟环境搭建
 ## 三、爬虫 学习
 
 ## 四、Excel 学习
+
+## 五、MySQL
+
+## 六、Power BI
+
+## 七、Tableau
+
+
