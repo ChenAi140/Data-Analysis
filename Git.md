@@ -24,7 +24,7 @@ git push gitee master
 
 打开隐藏文件，找到目录中的`.git`隐藏文件夹，修改config  
 
-![同步推送](./images/git/github_gitee同步推送.png)
+![同步推送](./imgs/Git/github_gitee同步推送.png)
 
 ## 拉取
 
