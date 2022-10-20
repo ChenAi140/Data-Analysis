@@ -25,10 +25,10 @@ git clone https://gitee.com/ChenAi140/Data-Analysis
 
 
 ## 四、数据库
-### &emsp;1. MySQL
-
+### &emsp;1. SQL
 
 ## 五、数据分析工具
+
 ### &emsp;1. Excel 学习
 
 ### &emsp;2. Power BI
