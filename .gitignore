@@ -1,3 +1,4 @@
-./README.bak.md
-./testDir
-./GitConfig
+.gitignore
+README.bak.md
+/testDir
+/GitConfig
