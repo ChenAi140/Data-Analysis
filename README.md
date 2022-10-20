@@ -45,5 +45,10 @@ Python基础知识学习
 
 ### 4. Pyecharts---(数据可视化)
 
+## 七、Linux
 
-## tmp
+### 1. 111
+
+### 2. 目录
+
+[Linux目录](./Directory/LinuxDir.md)
