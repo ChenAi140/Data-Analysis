@@ -11,44 +11,44 @@ git clone https://gitee.com/ChenAi140/Data-Analysis
 
 ## 二、Python 学习
 
-### 1. 介绍
+### &emsp;1. 介绍
 
-Python基础知识学习
+&emsp;&emsp;Python基础知识学习
 
-### 2. 目录
+### &emsp;2. 目录
 
-[Python目录](./Directory/PythonDir.md)
+&emsp;&emsp;[Python目录](./Directory/PythonDir.md)
 
 ## 三、数据抓取
 
-### 1. Python爬虫 学习
+### &emsp;1. Python爬虫 学习
 
 
 ## 四、数据库
-### 1. MySQL
+### &emsp;1. MySQL
 
 
 ## 五、数据分析工具
-### 1. Excel 学习
+### &emsp;1. Excel 学习
 
-### 2. Power BI
+### &emsp;2. Power BI
 
-### 3. Tableau
+### &emsp;3. Tableau
 
 
 ## 六、Python数据分析
-### 1. Numpy
+### &emsp;1. Numpy
 
-### 2. Pandas---(数据处理)
+### &emsp;2. Pandas---(数据处理)
 
-### 3. Matplotlib---(数据可视化)
+### &emsp;3. Matplotlib---(数据可视化)
 
-### 4. Pyecharts---(数据可视化)
+### &emsp;4. Pyecharts---(数据可视化)
 
 ## 七、Linux
 
-### 1. 111
+### &emsp;1. 111
 
-### 2. 目录
+### &emsp;2. 目录
 
-[Linux目录](./Directory/LinuxDir.md)
+&emsp;&emsp;[Linux目录](./Directory/LinuxDir.md)
