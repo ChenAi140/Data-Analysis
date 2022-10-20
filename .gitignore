@@ -1,4 +1,5 @@
 .gitignore
 README.bak.md
-/testDir
-/GitConfig
+/testDir/
+/GitConfig/
+/MySQL/
