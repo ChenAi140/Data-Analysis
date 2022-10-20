@@ -1,6 +1,6 @@
 ### 2022-10-20
 
-新增Linux目录、Cron表达式；更新README
+新增Linux目录、Cron表达式；更新README、.gitignore；删除README.bak.md、GitConfig文件夹
 
 ---
 
