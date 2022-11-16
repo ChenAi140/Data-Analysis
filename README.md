@@ -27,6 +27,10 @@ git clone https://gitee.com/ChenAi140/Data-Analysis
 ## 四、数据库
 ### 1. SQL
 
+[SQL目录](./DIrectory/SQLDir.md)
+
+
+
 ## 五、数据分析工具
 
 ### 1. Excel 学习

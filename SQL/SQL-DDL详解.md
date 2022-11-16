@@ -1,9 +1,10 @@
-# DDL—数据定义语言
-(Data Define Language)
+# DDL---数据定义语言
+
+Data Define Language
 
 DDL主要用于创建、删除、修改数据库中的对象，比如创建、删除、和修改二维表。
 
-核心关键词：<font color="red">create</font>、drop、alter
+核心关键词：`create`、`drop`、`alter`
 
 ## 一、创建数据库和表
 
@@ -99,9 +100,7 @@ drop table `tb_student`;
 drop table if exists `tb_student`;
 ```
 
-> <font color="red">**注意：**</font>如果要删除的表中的字段是另一个表的外键，则无法删除表。
-
-<font color="red">**111**</font>
+> **注意：**如果要删除的表中的字段是另一个表的外键，则无法删除表。
 
 ## 三、修改表
 
@@ -112,7 +111,7 @@ drop table if exists `tb_student`;
 alter table `tb_student` add column `stu_tel` varchar(20) comment '联系电话';
 ```
 
-> <font color="red">**注意：**</font>如果新增列的时候指定了⾮空约束（ not null ），那么学⽣表不能够有数据，否则原来的数据增加了stu_tel 列之后是没有数据的，这就违反了⾮空约束的要求；当然，我们在添加列的时候也可以使⽤默认值约束来解决这个问题。
+> **注意：**如果新增列的时候指定了⾮空约束（ not null ），那么学⽣表不能够有数据，否则原来的数据增加了stu_tel 列之后是没有数据的，这就违反了⾮空约束的要求；当然，我们在添加列的时候也可以使⽤默认值约束来解决这个问题。
 
 ```mysql
 -- 新增一个非空`stu_tel`的列，默认电话123456
